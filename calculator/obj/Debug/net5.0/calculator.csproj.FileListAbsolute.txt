@@ -1,0 +1,16 @@
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\calculator.exe
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\calculator.deps.json
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\calculator.runtimeconfig.json
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\calculator.runtimeconfig.dev.json
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\calculator.dll
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\ref\calculator.dll
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\bin\Debug\net5.0\calculator.pdb
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.AssemblyInfo.cs
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.dll
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\ref\calculator.dll
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.pdb
+C:\Users\simon\Desktop\Documents\Programmazione\C#\programmi\calculator\obj\Debug\net5.0\calculator.genruntimeconfig.cache
